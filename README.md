@@ -1,12 +1,11 @@
-# RobotComSelenium
-Material de estudo do Curso Robot Beginner com Selenium Webdriver
 
-# RobotComSelenium
+## RobotComSelenium
 
-Este repositório trata-se de uma material de estudo do Curso Robot Beginner com Selenium Webdriver.
+Este repositório trata-se de uma material de estudo do Curso Robot Beginner com Selenium Webdriver da QANinja.
 
 
-### 📋 Pré-requisitos
+## Tecnologias Utilizadas
 
-* Instalação Python 3
-* VScode com extenção em Robot
+  * Robot Framework
+  * VsCode
+
